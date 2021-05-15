@@ -11,6 +11,6 @@ afin d'en extraire les données des emails envoyés et/ou reçus à savoir :
 le fichier en sortie peut etre récupéré via excel, c'est un fichier texte au format UTF-8, caractère séparateur '£'
 avec la commande 
 
-python3 prudhombox.py > resultat.txt
+python3 prudhom-mbox.py > resultat.txt
 
 
